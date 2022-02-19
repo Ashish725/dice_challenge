@@ -1,1 +1,1 @@
-https://github.com/Ashish725/dice_challenge.git
+https://ashish725.github.io/dice_challenge/
